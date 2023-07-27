@@ -1,2 +1,4 @@
 # Dev-Atra-BOT
-Informations sur le dev de Atra BOT (new commands, bug fix etc.)
+Informations sur le bot [-DEV] Atra BOT (new commands, bug fix etc.)
+
+⚠️Notez que les systèmes parus ici pourraient ne jamais paraitre sur le ot Officiel
