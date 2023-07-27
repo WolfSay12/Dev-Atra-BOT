@@ -3,3 +3,5 @@
 27/07/2023 18:00 : ➕Ajouts de meilleur design et ajout d'informations
 
 27/07/2023 18:36 : ♻️Fix de plusieurs bug
+
+27/07/2023 21:28 : ♻️Fix de bug d'interraction
