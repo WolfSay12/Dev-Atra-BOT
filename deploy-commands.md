@@ -1,1 +1,1 @@
-# Tous les bug fix et les améliorations/ajouts du fichier `index.js` 
+# Tous les bug fix et les améliorations/ajouts du fichier `deploy-commands.js` 
