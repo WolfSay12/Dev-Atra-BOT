@@ -5,3 +5,5 @@
 27/07/2023 18:36 : ♻️Fix de plusieurs bug
 
 27/07/2023 21:28 : ♻️Fix de bug d'interraction
+
+28/07/2023 15:36 : ♻️ Fix d'un bug avec un soucis de constante
